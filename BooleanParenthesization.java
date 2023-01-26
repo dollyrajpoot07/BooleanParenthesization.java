@@ -1,4 +1,7 @@
 // Given a boolean expression with the following symbols. 
+// Symbols
+//     'T' ---> true 
+//     'F' ---> false 
 
 import java.io.*;
 import java.util.*;
